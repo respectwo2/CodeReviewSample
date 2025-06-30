@@ -2,5 +2,3 @@ max_comments: 10
 severity_threshold: medium
 ignored_files:
   - "*.md"
-
-
